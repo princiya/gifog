@@ -1,0 +1,16 @@
+{
+  "name": "gifog",
+  "version": "1.0.0",
+  "description": "Generate gif open graph images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gif",
+    "open",
+    "graph"
+  ],
+  "author": "Princiya Sequeira",
+  "license": "ISC"
+}
